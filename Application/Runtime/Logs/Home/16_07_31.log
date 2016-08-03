@@ -1,0 +1,1748 @@
+[ 2016-07-31T00:36:42+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=41e36f67d78d66e98b75aff593cd9b7ddc36bc01&timestamp=1469896602&nonce=1913461586&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=d570b9c954f9dd334ad516e981089492a16594ee
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-07-31T00:36:48+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=ac8ae0b9ffa56155f06bc625874098d7c26cd8dc&timestamp=1469896607&nonce=1183989165&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=cc560591ad2415274b75c4b3bc254736c9cb4798
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-07-31T00:36:51+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=a8bf67475a1d124ee4149e62bbfc60bfcb574bf6&timestamp=1469896611&nonce=1104716362&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=99497394a1c85064a29be058131a533a3d39636a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-07-31T00:37:02+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=63cb0e110a4bd1927a077f4e9bf14322a74c1a37&timestamp=1469896622&nonce=503018340&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=894a6e99d0b9f6b596eed1c214dfaee572924f7e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-07-31T00:37:08+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=e1d750e9c117e723dce83f4f13ddb7f8ec5a1b97&timestamp=1469896628&nonce=2034994185&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=29b08bc78f624794b9b188f8a565d35e652cdb34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-07-31T00:37:24+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=68e06513f03bf35add7100e23f429c891c0e98b4&timestamp=1469896644&nonce=1353665868&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=38d0716cb59eeff4842163df794ca32a8a5b3443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-07-31T00:37:45+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=b8d58389866a5588e504f9af72ce4e30a89f5c14&timestamp=1469896665&nonce=898761220&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=9363b96e62f3922705c42175a890b256ed08d13c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-07-31T00:39:42+08:00 ] 101.226.33.206 /Wechat/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 52 行.
+
+[ 2016-07-31T13:18:15+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=f98babfc2ded6aab4c17818dd007d29cf4dfbafe&timestamp=1469942293&nonce=283283368&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=9c6ef119b92ed5fe3a06e800674e0a2a3e806908
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-07-31T13:18:28+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=3a6d95347acc09c166788e9c06ae60688f71fe84&timestamp=1469942306&nonce=1035465208&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=1410099f87d63167a20643fe379d8e8cd51add66
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-07-31T16:43:13+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/http_curl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2016-07-31T16:43:44+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/http_curl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-07-31T17:14:15+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] Undefined variable: arr /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-07-31T17:16:03+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-07-31T17:20:34+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+ERR: 非法操作:getServerIp
+
+[ 2016-07-31T17:20:43+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 57 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-07-31T17:41:34+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=980d84a126d0df148ac5c0ddb983c24454790d6f&timestamp=1469958092&nonce=1694942100&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=3c1e1e161c498e44ce2f35cd4fa039fef0c956a2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-07-31T17:41:37+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=ee76e6e609ef98f10b452af4ac9a1f6af01aef5b&timestamp=1469958094&nonce=2076999930&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=c77e0a0c62afafd47d4e9705acfc9237be0d3749
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-07-31T17:42:11+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=b6f92c20dc44a5fcc505f2de48650e88da8c106a&timestamp=1469958129&nonce=1179319030&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=c72bc6068a4a2440e451b1333b22c6bdc08eb527
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-07-31T17:42:14+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=0df146aee48b25790b5f760c46b6a295ce61e66b&timestamp=1469958132&nonce=1719318721&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=65c753baa5ca5ccbda5c2fc66b5673f504f3611f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-07-31T17:42:17+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=2b944c3334fedc0e182d87b12f49d81be67e60d3&timestamp=1469958135&nonce=2063118240&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7e2a602c7b16444dc245ba2751ce482ae637c431
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-07-31T17:42:19+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=5b47e50b018a7f92483649d1638f11c1d7f94dd8&timestamp=1469958136&nonce=771655749&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=eadae971221cc970e61db6135b1ae4a6cdb67809
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-07-31T17:45:56+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=5a5892468f79eed41a2582989f623c1eb29bbfbd&timestamp=1469958354&nonce=1290954620&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=03a43930ba4dfc6817593dbcea748ba5e0b67a5e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-07-31T17:47:06+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=2c28d4e590b8458219dcd463cce6d530752c8f0d&timestamp=1469958424&nonce=1219324107&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=a1dc00cf8124a68d206f85ca1b695623eb26f9e4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-07-31T17:47:09+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=b132d4976c2cc821381e2acba9a0ef3abf37bc6d&timestamp=1469958426&nonce=434188059&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=c7d2d2ab8d01013cb5a248ab6688c24bfb4ad3d1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-07-31T17:48:11+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=6a5f4aec345832db63ba88907199b84828660db5&timestamp=1469958489&nonce=2095186521&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b3fde81e9c3b750eabe000f627f91bd9d4d6ce41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-07-31T17:48:15+08:00 ] 101.226.233.142 /Wechat/index.php/Home/Index/index?signature=ed95156fc405870bcfa52eb35988c675d7f50265&timestamp=1469958492&nonce=648182265&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7d6b4404c9c7cc2c2ecd1d697e0ace48604ac993
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-07-31T17:48:24+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=8143c184f5e5158966d2a9e2c7fe5089e40336b2&timestamp=1469958502&nonce=1286148102&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7c90be1d0f65114c6e5112029a16ed86b1319345
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-07-31T17:48:54+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=032d188cee15545c0e2c660bc6987e6d7f004797&timestamp=1469958532&nonce=565154860&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=f5d4e0f2fbd59a86ea08a088c2b32282664fac01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-07-31T17:49:39+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=eef0e89b0d51e44dc69a2ee4e28e8d1863386ba3&timestamp=1469958577&nonce=1499113220&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b354bcadc376b18b3c8642cfbd90b4c9c50e5b3f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-07-31T18:15:32+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=7e2683ad60a5b73cd8a2c57667fc463569a5b895&timestamp=1469960129&nonce=709849093&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=ea885ef7efb7b82a75bab5e547a07c7ef338b852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-07-31T18:15:34+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=631695b3fcc93740c36c8476175b17135847103e&timestamp=1469960132&nonce=914797146&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=be54ebcddeec3724871e1f58827a0635278acc19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-07-31T18:16:49+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=bec3f1a0aaf7896c8a53026164bbf49ad1950c8a&timestamp=1469960207&nonce=621077411&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=3ad228a6b6749dadc56487d4f76c03760486a12b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-07-31T18:16:52+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=87345789ef31bcc881ffdfb7f0f0c595191d49dc&timestamp=1469960210&nonce=605689550&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7c56a8f4cd3a73e89aa1620de9e1ba3098ba4f18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-07-31T18:17:54+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=b46c17320cd97aa109bfd24bdfd01abac053a03c&timestamp=1469960272&nonce=1628024361&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b241801ed9b900054e09c3c7cbdf7bea3b8a27ec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-07-31T18:18:53+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=bde3694bab24dcb1eeeff0e8e43e6e1425dabc97&timestamp=1469960331&nonce=1154955687&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=e6dc95c9ecce513dc842b7bbbb0c1d566444875e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-07-31T18:18:56+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=7df3ef6528a2877edb411f059f108b3fc0eb196a&timestamp=1469960334&nonce=342754670&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=6ec247c58b6772b662a7de470156b35dbc2785f6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-07-31T18:19:39+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=e7c66951e19f96b7ddefa721b33f6fd1c0853f3d&timestamp=1469960376&nonce=97981332&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=61deca4789efd1903769c257c2e7b32284900166
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-07-31T18:19:49+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-07-31T18:19:52+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-07-31T18:19:58+08:00 ] 115.202.125.56 /Wechat/index.php/Home/Index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2016-07-31T18:20:49+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=097801d4127781099c75034e8abc06a5ca8db531&timestamp=1469960447&nonce=1786701138&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7daee38017eabf8a1c0a0f821625c77f88988b1a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-07-31T18:21:41+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=27750278d9a6ad1d0f586fd5598d9103b2655ab6&timestamp=1469960499&nonce=414852150&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=27bcdb509598bc56e5ceffe30175a10822636070
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-07-31T18:22:18+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=a7ad8c9aeb760f77ace05cc0b0281a71bcfc52eb&timestamp=1469960536&nonce=2093773724&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=e02a259a6ba6e9cc133c1f396b586e446ef2c64f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-07-31T18:22:37+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=fe83566f60623a3816ceffc4b32ae7dcf2078b34&timestamp=1469960555&nonce=1113616569&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=4354d9bcbcd7af563a43d7fb5203a4ebee21e87b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-07-31T18:23:03+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=4d253ebe864caa538f32837e1191f72b929dace8&timestamp=1469960581&nonce=507518279&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=8a44e39f4d27fe75cde28e0a3009e2ee0d3f5082
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-31T18:24:39+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=a7dae15194d795f00469451fdbb6fffddb804138&timestamp=1469960677&nonce=294670597&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b6c1ecaaa02d84cc1947d7ac0039b237e0985cb6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-07-31T18:24:41+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=1e01be848fe56d7db8f8349e9187d21e6ec50094&timestamp=1469960679&nonce=524413306&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b8a26c3ad5da2c6d3d9a11e8249fc868ae1db3d8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-07-31T18:25:11+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=b5ac97379be63cc8a0d89a2505b99a8a3d6e08df&timestamp=1469960708&nonce=777208117&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b14fabf2ed2d91daec0a6982fce1b689c89d4af4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-07-31T18:25:13+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=caa636757a456be1a90bfebca66582464963353d&timestamp=1469960711&nonce=729799750&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=008e59f730eeae8347615e5dc71ce9dabbe41df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-07-31T18:31:49+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=8f7b1ceedef37f497834243a6ee738fc4a2087ac&timestamp=1469961106&nonce=973278148&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=6e3f41fb9a58aa11f1d811b6fa2ee85bcd3ec45b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-07-31T18:31:54+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=3de851e7af42cb2586a532b67cbc38c7dc1f7926&timestamp=1469961112&nonce=83841519&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=8f4f916f397bc499c49208f8f556c6e5d91fa99f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-07-31T18:32:02+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=b2c0c9a3d94d6895cef6af44117a83583caedfc8&timestamp=1469961120&nonce=1006549776&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=61f96e5d8191c5d36886ece78b3a9f9f65881370
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-07-31T18:52:10+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=c7c9d1c0e1c1c873433524389b54dbeed2aea5e0&timestamp=1469962328&nonce=181332961&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=d6255491dc70550dbe5159eb0a40d540ce819818
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-07-31T18:52:34+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=ecd9e71a1fe777abcc3fa2bd6193e958aeb96e2a&timestamp=1469962351&nonce=1997362650&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b5cc2f378de199f99336029fd55200a1d873e6dc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-07-31T18:53:08+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=341628a33d30913f3fbec052da36fa5323a77f88&timestamp=1469962386&nonce=1044503513&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=9737d0eb30993c67e74827358bd342a2cdd3e7b9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-07-31T18:54:07+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=b0b2f467ff19d9424535092f7ea33c0c108220c5&timestamp=1469962444&nonce=903909915&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=ebb6bf5ae07b1c4815f4f600f9409cedbe2bb988
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-07-31T18:54:14+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=64803b00a90861bfb85b27c21caf529a3fbd4936&timestamp=1469962452&nonce=1563200794&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=4f0a955a56e56858f7ae610910a4cfeaff4f0b16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-07-31T18:55:43+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=d10d5823600a6bc9028419d94000b52f43f7bfc6&timestamp=1469962541&nonce=1168341751&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=59488a21a85be05b6816929c6c2cf54c28100fa0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-07-31T19:04:18+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=d76ce7d1c272d7dcb137a288c8236042b46c8511&timestamp=1469963056&nonce=470177306&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=adc318b46b15f811e9ff1dc3cc70c85f4c3ec95f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-07-31T19:04:23+08:00 ] 101.226.233.153 /Wechat/index.php/Home/Index/index?signature=2b816ae76a768795895edae42f3b3e2278beb285&timestamp=1469963060&nonce=613330016&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=8812404a58b75096d2a133bd876b7126070c7a75
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-07-31T19:05:07+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=fdb49666a2f1e993a3c85eab3a3189f2800e825d&timestamp=1469963104&nonce=347185783&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=40d916d7db15294d22dd01cebd6b912137bf4aaf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-07-31T19:05:09+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=b2adee94cbac329e7daf90ec81649b64a91976c0&timestamp=1469963106&nonce=1205106235&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=f59ca2f9edeece81e7cc5d0fb1c86331f0ed0b17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-07-31T19:05:34+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=33ce894da2811ec3ab7e6f3f718c5f27e0522a90&timestamp=1469963131&nonce=634738907&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=a5f7ff3601ab100f160c6b96bf9751046927b609
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-07-31T19:06:04+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=c79701146ff6c9a810ca06a746b375c000f62059&timestamp=1469963162&nonce=1848967782&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=e29329099283b728f11cd29799e6ff50c1f15bbd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-07-31T19:06:13+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=92d1d3497657b784af107473f6972ba8e2a7eca1&timestamp=1469963171&nonce=1353239119&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=c1c183520d35cb337ec941effc0d8135aa2a120d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-07-31T19:06:44+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=f042869050b06ba6afe7e6cc207eb9c50e095bab&timestamp=1469963202&nonce=984921165&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=3d87ecde0c6c7ba7e0c0e56e5afb630c91db2e1b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-07-31T19:06:46+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=47fa5dd35f55022ce31ea2c9d72c4788a0993381&timestamp=1469963204&nonce=774902309&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=68526b4c35cb41b7526bb89cf8a93f03fbe83a98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-07-31T19:08:27+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=e95c0716089c363d099285fea48b0a8e76c41cda&timestamp=1469963304&nonce=501188688&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=2bbf590e62c971c620924f7e8afdb5c225f3bcfb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-07-31T19:10:42+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=1ba4a02203484ff4a9e55e927a8ae8887b043044&timestamp=1469963439&nonce=1044265349&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=828fd723a91c4d7ba5f7e408183fcd4bbb0490c3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-07-31T19:10:49+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=236fcff5d5bc4b2058fc954f97e28d2f3850c6c3&timestamp=1469963447&nonce=1919017735&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=6930409c0aab505a70814b045bfedbf1a739a7c3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-07-31T19:10:57+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=3bf5ab41df5effcdc368edd510af62b73e0bb2cc&timestamp=1469963455&nonce=2145172642&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=de44eb71175f5ac8d101208d56b50368c4e994a9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-07-31T19:12:34+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=98f20d67183249e10cc084db01742510f845fb37&timestamp=1469963551&nonce=1743036122&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=f203df366cfd0dd5dacd483fcba09d75aee7808d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-07-31T19:12:41+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=30f272342f693090f11a7cfe9038b3bc69395c1b&timestamp=1469963559&nonce=1162768791&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=5b4e764d020ea1ee4ee5f25f81ef2cebc540dd98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-07-31T19:13:29+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=25c7e8b1b0f1ee0edf3689104e97ff1db7045abc&timestamp=1469963606&nonce=1591687040&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7367ac3d12d66f6f4db05255121854c2554e3329
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-07-31T21:27:48+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=8a857d0e7808172957100aa609a207bbb05da0c8&timestamp=1469971666&nonce=1257720054&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=17e01ed7e9a73702f9e0debfa2b82c804c7652be
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-07-31T21:27:52+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=b87cabf152c0eafc07681c89b53129077aad3273&timestamp=1469971669&nonce=407117723&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=61b914c20d1cd0e0041030d68c1d3d484b544cc7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-07-31T21:28:09+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=e5403d21d749bec2b63a7c29ccac9f0a05d2ed1c&timestamp=1469971687&nonce=1835177371&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=5b6699a858d3aa1973db90d1ac2a75129710cf89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-07-31T21:28:25+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=235102243536a7220c6154823f95a0f753db6c59&timestamp=1469971702&nonce=214205774&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=f98dffcef05ef4019bc8997b0a1a461111312629
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-07-31T21:29:10+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=4ef2248422ae64c94b09965f260e0e17ce4b9825&timestamp=1469971747&nonce=93181592&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=123e98d513bb325741fa1aca60130cd11da445ed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-07-31T21:29:19+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=544f95f0ef97ffa12e94f0e06d73e065ef4f4b30&timestamp=1469971756&nonce=1470458673&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=ab67087d3f691f67ee7c5eead06fa44ba78537ec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-07-31T21:29:49+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=533d94265bd35bc0a37d9e0bff98b0a39de72c69&timestamp=1469971787&nonce=1505713701&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=3581498599e9f585467fb39ebfc54112c179b985
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-07-31T21:30:05+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=6acfb4ba791c870530b42a5ecf405292dd200bc1&timestamp=1469971802&nonce=2054556571&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=2db1d8fd1a16791cda7016ab43dd20763a5963fd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-07-31T21:30:20+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=658d43b1f1ae82ca9a448a59c03e710dc18a13f9&timestamp=1469971817&nonce=569884342&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=a842bc99c1dbbeec007fbb867590d1554a716ceb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-07-31T21:32:28+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=19898faa5b8aaa7fbd867a348df42dc0178357eb&timestamp=1469971945&nonce=2020431628&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=1a1e6d4d49ff754bf5a26a06eb315375a351b681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-07-31T21:34:15+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=d24f519af574cf05f38e9c995077805ab22dd9ca&timestamp=1469972053&nonce=2136894315&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=4d6f9294bf8957a3592b6168d3d082999411e4bf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-07-31T21:34:20+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=5e37ad52f3cd770c68be71bfaf5f5ac4fe064f5a&timestamp=1469972057&nonce=669565728&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=63fe5ba1f80fbd857ca86d7ddbb9ad786e64fe51
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-07-31T21:34:31+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=4fec541aaed6820b9347ff20bd28cea687b5077b&timestamp=1469972069&nonce=162235140&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b0b76ad2bbc680ffab5c0d7d608e07cacc0e38c2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-07-31T21:34:39+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=0115cda20b74386dd23aa789c04e4f0b94624b15&timestamp=1469972076&nonce=880025467&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=c12fc49a210af6fbba28159f248932b35f7d42d8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-07-31T21:34:41+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=fe07d3d8849639d5559d9ad32c3af6e87bc52020&timestamp=1469972079&nonce=1989710976&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=0cfc0ef5c28fe7ceaba4701fbd5c00af859432b5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-07-31T21:34:57+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=acc1da82b826a9a967bd66841b8618056d8218bf&timestamp=1469972094&nonce=1415068254&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=adc6bb8e2ce7954aafd2bb4f8f641962ae11c0eb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-07-31T21:35:19+08:00 ] 101.226.233.158 /Wechat/index.php/Home/Index/index?signature=50de5f7826930356b28bd1c3c675f4b9398db719&timestamp=1469972116&nonce=881130222&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=42550f22afcc35e78562a68f6fcc165cd9b7d0b9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-07-31T21:35:58+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=230619af378398db92054211ae34688e4d01e6dc&timestamp=1469972155&nonce=543121323&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=d2a2caec456027419e551dce74be0804a67d4828
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-07-31T21:36:31+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=f7a936afc8c9aa92668f04100b85672f203be5d5&timestamp=1469972188&nonce=788892905&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=8e024dc0d2c42d2774635ae97ac29c12d7fd9d1d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-07-31T21:36:35+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=286b1b70945d18f80cbb9fadae9352f5678cdad3&timestamp=1469972192&nonce=1169258219&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=604b3abfa7ed2df05098876f44dc34e4642f1d5e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-07-31T21:36:55+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=b5f72dd4339f1d991eb4ade1846b7525c2bfa02d&timestamp=1469972212&nonce=1974309374&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=63ea1e789f96c2eb0efdf376313d51f328dbb2f5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-07-31T21:37:00+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=19562449459cb12cb1978244ee31c0cd4d43f0c6&timestamp=1469972218&nonce=1167956275&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=434223ecde92cb7d5c25e65242c6b68a4ad6aba2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-07-31T21:37:02+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=006a622f54c6dc969129b5ce387d0c609d0ad64a&timestamp=1469972219&nonce=1724732214&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=81513b19f776b7dff9c8b7480e4d7f6d68fb26bc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-07-31T21:37:04+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=666379ccef5288a4aa9cd0ee486cbd700a02aeb3&timestamp=1469972222&nonce=1930445929&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=a7777dd778780135f7d776a9916e3d880fec7630
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-07-31T21:37:47+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=91cda12b9d154f8f76fda80278d74e59a7da84cf&timestamp=1469972264&nonce=1852042953&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=226bad3f353b6900500f8fa59ecfbcab0c45f4e7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-07-31T21:37:51+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=827859ed29df169ba5aa52220e88cf9aa0d066a1&timestamp=1469972268&nonce=595429097&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=9213929683fa97b1bded988f5deb86d2abd339a1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-07-31T21:37:54+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=c2de5583651b5633f2f756032a49420a8eba41ed&timestamp=1469972272&nonce=1941779172&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=55b819d9932b99dbf72850b07bf862590b911e68
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-07-31T21:38:00+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=cb36b3a64e4cff889cee25106d6aa0c3496e6270&timestamp=1469972277&nonce=1894828171&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=da71f932ec425d6be0a0dbe32e4bc76ee20c2964
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-07-31T21:46:29+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=a5a2f293585e992fbb3d3b3e2da60ab51404e6ab&timestamp=1469972786&nonce=433233319&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=092e9d3b98f2c0c23776bd1c551fc610363c7997
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-07-31T21:46:32+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=3e339b66685c4620abf3a5d9d8237c42ad93128e&timestamp=1469972790&nonce=2009887919&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=3b3778d64d4b1cdba1793403b3cf3b4df9984005
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-07-31T21:46:34+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=ac0e180911baaefb3292e30c6d65da030a3ae076&timestamp=1469972792&nonce=44250989&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=6faae1eb2240051beb80ed46e8a409cc0cb6e7e3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-07-31T21:46:36+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=c5cc40370c7af7075b7c2c650b396f09d80fad91&timestamp=1469972794&nonce=1370953357&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=2b59ad2f88cdf72dd54d803b6d2d3ef1c3903a2c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-07-31T21:46:41+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=8131ca889693aae5282621ef609afb6e3f287967&timestamp=1469972798&nonce=1360026882&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=bca94acde9af04d17af0c230bf4e9f0859c9b76c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-07-31T21:46:45+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=17176968c8238856a299ad565f78b1921a9e8f35&timestamp=1469972803&nonce=1179209238&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=9e1715c191b98fe6dd5bb0ba48820195a7507140
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-07-31T21:47:26+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=79bc03f0d5b9c9a8c6e78d2116beeb0f2d996ab3&timestamp=1469972844&nonce=1322278814&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b23847311db1092a2db7dc652c98aab2ec6d4e47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-07-31T21:47:40+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=3360ed956f471abe3ed1157e78c6f6393034c56b&timestamp=1469972857&nonce=522727868&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=d6cfba85f950ca0d9b7cfadabb6dacb771767b45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-07-31T21:56:57+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=909ee13a3186ebaf3fef4851a31a04f111ef1861&timestamp=1469973414&nonce=815285687&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b50b4b6e760c7f6f3aac51587c7f9f8b27421960
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-07-31T22:09:00+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=8c6fda7d6899a75e71a225eba0b0cb1ef45e0e62&timestamp=1469974137&nonce=1583709987&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=87a5ab687c19e7fcb173bd1545e36e707fa7b6ff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-07-31T22:09:08+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=31e0708926e94ae7ecd0ebb3868c2df400b9acaf&timestamp=1469974145&nonce=2113801718&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=47416a3930aef9bb21b27b4481a7f098d7cad020
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-07-31T22:09:27+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=55d1defae2dfb98c45af5f32796bfd887f0a755e&timestamp=1469974164&nonce=889510979&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=81989b80eaddd6e21943ccc7169ff5ac65d18a0b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-07-31T22:31:13+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=100cc609e8efb6e4eac25068847ef7af373f66d2&timestamp=1469975470&nonce=1714523650&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=57da8031c1373ab4a882d8c023afca024b6171e9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-07-31T22:31:29+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=60e58920bb376a0e6dd03f72bebbe77884067029&timestamp=1469975486&nonce=973684947&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=f3160e0b7ad5bbe5a5f766d657053a0eafad1039
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-07-31T22:41:54+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=a2c6f71c5f5b922518761e1b2562433e27f8d59e&timestamp=1469976111&nonce=967994352&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=e3e16ab9fba2e0cd559372a62b579f4c81c37eec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-07-31T22:42:05+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=e800607e309c3bd65a7c7c3e3ed9203990d5cffd&timestamp=1469976122&nonce=1844726883&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=c80569fded31625bfb97e90f0d13026572f00c55
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-07-31T22:42:13+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=5f6525267e8b3fe8224f1fef444ff389c211f002&timestamp=1469976130&nonce=1751011228&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=7fef19c521b1459bc3f352a2de644a09ad3eb44e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-07-31T22:42:44+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=54ca0ea1184ce70bd9c0ea4e138df33de19bf726&timestamp=1469976161&nonce=354329155&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=b6f64444ba89f66b15d0cee6f8176fe92ae2c201
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 55 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 65 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-07-31T22:42:49+08:00 ] 101.226.233.157 /Wechat/index.php/Home/Index/index?signature=9093e64dc46fc9e90f128d01bb58bb9d4adf4197&timestamp=1469976166&nonce=186300832&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=568d516c8dcb8cbdb5362210dd0506e7a511122a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 55 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 65 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-07-31T22:42:53+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=bec0d93b83b68bdaff1f4ccf652f85ba3b7b2be7&timestamp=1469976170&nonce=61460574&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=0b2b303fe246caba9c01f7db6d7a342809d91514
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 55 行.
+NOTIC: [2] preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 4 /data/home/qxu1606460108/htdocs/Wechat/Application/Home/Controller/IndexController.class.php 第 65 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-07-31T22:45:35+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=2eceb2063fed584333e04ce3f040d78478ece6e9&timestamp=1469976332&nonce=1749833493&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=31a332a63afa07f2e307ecc2b7e0e331d9e405dc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-07-31T22:45:44+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=3ffe7338608e0a530b32011c29098e253fc2646f&timestamp=1469976341&nonce=915374472&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=a0fe3c0327863e8130ef1d236e7314484e02327e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-07-31T22:45:59+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=883eae7a24a934931df180cded1c339703a9d53f&timestamp=1469976356&nonce=1054865114&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=5f28c5794571212230501a3863fd61ff978b7218
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-07-31T22:47:26+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=238dad26ea01e9ff0ae752fcf9d6e1a35498a373&timestamp=1469976443&nonce=1975945367&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=2ed2ee6824d30f062a074457bfdb5a2600e8494c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-07-31T22:47:30+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=7ee5a26d656fe987a973fb1b2049ac31d8bbd24c&timestamp=1469976448&nonce=1303085088&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=59a058d3b0a65c70a011ff4100a670e09c640589
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-07-31T22:47:55+08:00 ] 101.226.233.150 /Wechat/index.php/Home/Index/index?signature=732df72213fb0af096ef4151b18bc26e89d04905&timestamp=1469976472&nonce=1351533296&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=692be5890f75cceaf8bcc752cd367e725090cf8c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-07-31T22:48:23+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=52b85c7ce7ccc6e1a19403f36ccda7d42607e273&timestamp=1469976500&nonce=2026983361&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=cc9bb2b9915004b5fb288dbd5349bf8a255577f5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-07-31T22:48:45+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=2aac1d5db8b56115eb8156e841b1f8b93c7c221b&timestamp=1469976522&nonce=1477423022&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=f6d4097e94f07fea12bf0cab82686339600c9561
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-07-31T22:48:52+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=64c9dadbaa3a08e330dc57b6021cbddeda07644e&timestamp=1469976529&nonce=1015404698&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=4557b74ffa8e1b636a67af448fbb97e290d6fa65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-07-31T22:49:09+08:00 ] 101.226.233.155 /Wechat/index.php/Home/Index/index?signature=57115bf5a8d6ce0f6202cd3205b58d8b02ff3873&timestamp=1469976546&nonce=2002525294&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=a86ae3e9043d20fcdf465e7dde40769bb39ac137
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-07-31T22:50:19+08:00 ] 101.226.233.140 /Wechat/index.php/Home/Index/index?signature=1ad4590790a6bb78ecc94cb4d9e00185ecbe703f&timestamp=1469976617&nonce=511275198&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=e7a87fe5ec1616114b350ae3445d51f938d2c191
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-07-31T22:50:25+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=a5c44d784daebedf5d32434e8bc8fe90c7b5fcfa&timestamp=1469976622&nonce=1833136252&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=8737c27a072c8a5961a9054650f17ab2f46282bc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-07-31T23:02:54+08:00 ] 101.226.233.145 /Wechat/index.php/Home/Index/index?signature=3e3cb904431cdef9efab0fd07cb098ea748168a9&timestamp=1469977371&nonce=127909097&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=2ed737130875844dae5420b02d37d33a886c0db0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-07-31T23:03:02+08:00 ] 101.226.233.158 /Wechat/index.php/Home/Index/index?signature=373c3217d10f7c733346d272845e6dc75acd5b9f&timestamp=1469977379&nonce=11723382&openid=oI96ovxSIIF5Ie0cseZU3G6Y8cFM&encrypt_type=aes&msg_signature=d06ee29f236f69ff648d1795a47f0334fa68ba5e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 14 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 17 行.
+NOTIC: [8] Undefined variable: s /data/home/qxu1606460108/htdocs/Wechat/Application/Common/Conf/const.php 第 19 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+

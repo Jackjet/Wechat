@@ -1,76 +1,12 @@
 <?php
-/*
-    方倍工作室 http://www.cnblogs.com/txw1958/
-    CopyRight 2013 www.fangbei.org  All Rights Reserved
-*/
 
-define("TOKEN", "weixin");
-$wechatObj = new wechatCallbackapiTest();
-if (isset($_GET['echostr'])) {
-    $wechatObj->valid();
-}else{
-    $wechatObj->responseMsg();
-}
+header("Content-type:text/html;charset=utf-8");
 
-class wechatCallbackapiTest
-{
-    public function valid()
-    {
-        $echoStr = $_GET["echostr"];
-        if($this->checkSignature()){
-            header('content-type:text');
-            echo $echoStr;
-            exit;
-        }
-    }
+if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
 
-    private function checkSignature()
-    {
-        $signature = $_GET["signature"];
-        $timestamp = $_GET["timestamp"];
-        $nonce = $_GET["nonce"];
+define('DIR_SECURE_FILENAME', 'default.html');
 
-        $token = TOKEN;
-        $tmpArr = array($token, $timestamp, $nonce);
-        sort($tmpArr, SORT_STRING);
-        $tmpStr = implode( $tmpArr );
-        $tmpStr = sha1( $tmpStr );
+define('APP_DEBUG',true);
+define('APP_PATH','./Application/');
 
-        if( $tmpStr == $signature ){
-            return true;
-        }else{
-            return false;
-        }
-    }
-
-    public function responseMsg()
-    {
-        $postStr = $GLOBALS["HTTP_RAW_POST_DATA"];
-
-        if (!empty($postStr)){
-            $postObj = simplexml_load_string($postStr, 'SimpleXMLElement', LIBXML_NOCDATA);
-            $fromUsername = $postObj->FromUserName;
-            $toUsername = $postObj->ToUserName;
-            $keyword = trim($postObj->Content);
-            $time = time();
-            $textTpl = "<xml>
-                        <ToUserName><![CDATA[%s]]></ToUserName>
-                        <FromUserName><![CDATA[%s]]></FromUserName>
-                        <CreateTime>%s</CreateTime>
-                        <MsgType><![CDATA[%s]]></MsgType>
-                        <Content><![CDATA[%s]]></Content>
-                        <FuncFlag>0</FuncFlag>
-                        </xml>";
-            if($keyword == "?" || $keyword == "？")
-            {
-                $msgType = "text";
-                $contentStr = date("Y-m-d H:i:s",time());
-                $resultStr = sprintf($textTpl, $fromUsername, $toUsername, $time, $msgType, $contentStr);
-                echo $resultStr;
-            }
-        }else{
-            echo "";
-            exit;
-        }
-    }
-}
+require './ThinkPHP/ThinkPHP.php';
